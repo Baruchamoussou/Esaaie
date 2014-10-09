@@ -2,5 +2,6 @@ import os
 print "hello"
 
 
+print "Bonjour"
 
 print "Hi"
